@@ -1,0 +1,30 @@
+a:link{
+    color: #CC0000;
+
+}
+a:visited{
+color: #CCC;
+}
+a:hover{
+    background-color: #CC0000;
+    color:#FFF
+}
+/*
+ link sin visitar 
+a:link {
+    color: red;
+    }
+    /* link visitado
+    a:visited {
+    color: green;
+    }
+    /* mouse sobre el link
+    a:hover {
+            color: pink;
+    }
+    /* link clickeado 
+    a:active {
+    color: blue;
+    }
+    
+*/

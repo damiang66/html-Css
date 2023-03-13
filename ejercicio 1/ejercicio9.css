@@ -1,0 +1,44 @@
+#titulo{
+    color: darkcyan;
+}
+strong{
+    color: red;
+}
+#subtitulo{
+    color: blue;
+}
+em{
+    color: blue;
+}
+a{
+    color: brown;
+}
+table{
+    width: 250px;
+border: 1px solid #000;
+
+}
+table th, table td{
+    border: 1px solid #000;
+}
+th{
+    color:red;
+}
+td{
+    color:green;
+}
+td strong{
+    color:coral;
+}
+.especial{
+    color: coral;
+}
+p{
+    color:darkgoldenrod
+}
+#especial{
+    color:blueviolet;
+}
+p a{
+    color:green;
+}

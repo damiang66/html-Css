@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../ejemplos/HTML-CSS/01_intro-html"
+		},
+		{
+			"path": "../ejemplos/HTML-CSS/02_formularios-html"
+		},
+		{
+			"path": "../ejemplos/HTML-CSS/03_tablas-html"
+		},
+		{
+			"path": "../ejemplos/HTML-CSS/04_intro-css"
+		},
+		{
+			"path": "../ejemplos/HTML-CSS/05_html_css_ejemplo-practico"
+		},
+		{
+			"path": "../ejemplos/HTML-CSS/Ejercicio 09"
+		},
+		{
+			"path": "../ejemplos/HTML-CSS/Ejercicio 10"
+		}
+	],
+	"settings": {}
+}

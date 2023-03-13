@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+}
+h1{
+    font-family: fantasy;
+  text-align: center;
+}
+h2{
+    font-family: monospace;
+    text-align: center;
+}
+p{
+    font-family: initial;
+    color: brown;
+    text-align: left;
+}
